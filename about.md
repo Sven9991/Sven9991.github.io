@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the BioHack Academy documentation site of Svekke
+This is the BioHack Academy documentation site of Svekke.
 What about me? I am 23 yearrs old and born and Living in Belgium (Flanders)
 
 ### Studies
