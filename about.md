@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 This is the BioHack Academy documentation site of Svekke.
-What about me? I am 23 yearrs old and born and Living in Belgium (Flanders)
+What about me? I am 23 years old and born and living in Belgium (Flanders)
 
 ### Studies
 
